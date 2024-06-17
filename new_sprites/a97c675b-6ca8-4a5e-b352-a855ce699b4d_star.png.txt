@@ -1,0 +1,1 @@
+student01.png.png 1265 1, student02.png.png 164 362, student03.png.png 1640 544, student04.png.png 418 826, student05.png.png 739 748, student06.png.png 1245 1188.
