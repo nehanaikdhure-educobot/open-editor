@@ -39,7 +39,7 @@ for file in list_of_files:
         "blocks": {}
     },
 """
-# final_string+="]"
+final_string+="]"
 print(final_string)
 
 with open("new_sprites.json", "w") as outfile:
